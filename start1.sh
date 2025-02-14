@@ -1,0 +1,1 @@
+./srcds_run -game left4dead2 -debug  +port 20005 +map c2m1_highway +exec server.cfg +sv_lan 0 -tickrate 100 
